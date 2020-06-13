@@ -1,0 +1,7 @@
+Python+OpenCV ставит лайки в Instagram через adb
+
+Требования
+
+cv2
+numpy
+ppadb
